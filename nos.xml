@@ -90,8 +90,8 @@
 
     <!-- packages -->
     <project path="packages/apps/Bluetooth" name="android_packages_apps_Bluetooth" remote="nos" revision="10" />
-    <project path="packages/apps/NitrogenSettings" name="android_packages_apps_NitrogenSettings" remote="nos3 " revision="10" />
-    <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="nos3" revision="10" />
+    <project path="packages/apps/NitrogenSettings" name="android_packages_apps_NitrogenSettings" remote="origin" revision="10" />
+    <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="origin" revision="10" />
     <project path="packages/apps/SettingsIntelligence" name="android_packages_apps_SettingsIntelligence" remote="nos" revision="10" />
     <project path="packages/apps/DeskClock" name="android_packages_apps_DeskClock" remote="nos" revision="10" />
     <project path="packages/apps/Launcher3" name="android_packages_apps_Launcher3" remote="nos" revision="10" />
@@ -116,7 +116,7 @@
 
     <!-- vendor -->
     <project path="vendor/codeaurora/telephony" name="android_vendor_codeaurora_telephony" remote="nos" revision="10" />
-    <project path="vendor/nitrogen" name="android_vendor_nitrogen" remote="nos3" revision="10" />
+    <project path="vendor/nitrogen" name="android_vendor_nitrogen" remote="origin" revision="10" />
     <project path="vendor/qcom/opensource/data-ipa-cfg-mgr" name="android_vendor_qcom_opensource_data-ipa-cfg-mgr" remote="nos" revision="10" />
     <project path="vendor/qcom/opensource/dataservices" name="android_vendor_qcom_opensource_dataservices" remote="nos" revision="10" />
     <project path="vendor/qcom/opensource/interfaces" name="android_vendor_qcom_opensource_interfaces" remote="nos" revision="10" />
