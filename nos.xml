@@ -83,6 +83,7 @@
     <project path="external/ntfs-3g" name="android_external_ntfs-3g" remote="nos" revision="10" />
     <project path="external/json-c" name="android_external_json-c" remote="nos" revision="10" />
     <project path="external/motorola/faceunlock" name="android_external_motorola_faceunlock" remote="nos2" revision="10" />
+    <project path="external/asus/StitchImage" name="external_asus_StitchImage" remote="nos3" revision="10" />
 
     <!-- OTA -->
     <project path="OTA" name="OTA" remote="nos" revision="10" />
