@@ -1,0 +1,26 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+    <!-- Github remote -->
+    <remote name="github"
+        fetch="https://github.com/" />
+
+    <remote name="devicen"
+        fetch="https://github.com/device-whyred"
+        sync-j="16" />
+
+     <!------ device ------>
+     <project path="device/xiaomi/whyred" name="device_xiaomi_whyred" remote="device" revision="Nitrogen" />
+     <project path="device/xiaomi/sdm660-common" name="device_xiaomi_sdm660-common-whyred" remote="device" revision="Nad" />
+
+     <!----- vendor ------>
+     <project path="vendor/xiaomi/whyred" name="vendor_xiaomi_whyred" remote="device" revision="sx" />
+     <project path="vendor/xiaomi/sdm660-common" name="vendor_xiaomi_whyred" remote="device" revision="sx-common" />
+
+     <!------ MiuiCamrera ------>
+     <project path="vendor/MiuiCamera" name="vendor_xiaomi_whyred" remote="device" revision="MiuiCamera" />
+
+     <!------ kernel ------>
+     <project path="kernel/xiaomi/sdm660" name="STOCK_Q_kernel_whyred" remote="device" revision="android-10-eas" />
+
+<manifest>
