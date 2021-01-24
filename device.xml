@@ -18,5 +18,4 @@
      <project path="vendor/MiuiCamera" name="vendor_xiaomi_whyred" remote="device" revision="MiuiCamera" />
 
      <project path="kernel/xiaomi/sdm660" name="STOCK_Q_kernel_whyred" remote="device" revision="android-10-eas" />
-
-<manifest>
+</manifest>
